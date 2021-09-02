@@ -1,0 +1,9 @@
+git innit
+git add . 
+git commit -m "some commit message"
+git push
+git log
+
+
+git config --global user.name
+git config --global user.email
